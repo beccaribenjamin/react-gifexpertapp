@@ -6,7 +6,7 @@ import { GifGrid } from './components/GifGrid';
 export const GifExpertApp = () => {
 
     //Creando lista de categorias
-    const [categories, setCategories] = useState(['Elon Musk']);
+    const [categories, setCategories] = useState(['Developer']);
 
     return (
         <>
